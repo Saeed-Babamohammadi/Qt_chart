@@ -17,5 +17,6 @@ public:
 
 private:
     Ui::MainWindow *ui;
+    int x=1;
 };
 #endif // MAINWINDOW_H
