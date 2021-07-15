@@ -15,7 +15,6 @@ MainWindow::~MainWindow()
 //aaaabbbbbbb
 
 //Saeed_Babamohammadi
-<<<<<<< HEAD
-=======
+
 //insert command for test
->>>>>>> branch1
+
